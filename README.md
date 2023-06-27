@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A passionate frontend developer from Santiago, Chile</h3>
-![avatar-2]([https://github.com/Nadabastaya/nadabastaya/assets/12211861/4845c83a-9027-411f-b30f-023ea8bfb8cc](https://user-images.githubusercontent.com/12211861/249299882-4845c83a-9027-411f-b30f-023ea8bfb8cc.png))
+![avatar-2](https://user-images.githubusercontent.com/12211861/249299882-4845c83a-9027-411f-b30f-023ea8bfb8cc.png)
+<div align="center">![avatar-2](https://github.com/Nadabastaya/nadabastaya/assets/12211861/4845c83a-9027-411f-b30f-023ea8bfb8cc)</div>
 
 - 🌱 I’m currently learning **NextJS, Tailwind Css, Azure Tools**
 
