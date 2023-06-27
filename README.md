@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, I'm Camilo</h1>
-<h3 align="center">A passionate web developer from Santiago, Chile</h3>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12211861/249299882-4845c83a-9027-411f-b30f-023ea8bfb8cc.png" />
 </p>
 
-- 🔭 I’m currently working on [Top-pify](https://top-pify.vercel.app/) (if you wanna know your most streamed artists and songs, DM me!)
+<h1 align="center">Hola 👋, I'm Camilo</h1>
+<h3 align="center">A passionate web developer from Santiago, Chile</h3>
+
+- 🔭 I’m currently working on [**Top-pify**](https://top-pify.vercel.app/) (if you wanna know your most streamed artists and songs, DM me!)
 
 - 🌱 I’m currently learning **NextJS, Tailwind Css, Azure Tools**
 
